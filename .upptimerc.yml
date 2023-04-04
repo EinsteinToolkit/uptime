@@ -24,5 +24,14 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
+workflowSchedule:
+  graphs: "0 12 * * *"
+  responseTime: "29 8 * * *"
+  staticSite: "1 4 * * *"
+  summary: "54 10 * * *"
+  updateTemplate: "5 17 * * *"
+  updates: "36 10 * * *"
+  uptime: "*/15 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
