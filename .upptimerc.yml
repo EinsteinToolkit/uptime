@@ -15,7 +15,7 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /uptime
   logoUrl: https://www.einsteintoolkit.org/images/logo/einstein_right.svg
-  name: [Einstein Toolkit](https://www.einsteintoolkit.org)
+  name: Einstein Toolkit status
   introTitle: "Einstein Toolkit relativistic astrophysics toolkit."
   introMessage: The [Einstein Toolkit](https://www.einsteintoolkit.org) is a [community-driven](http://einsteintoolkit.org/members.html) software platform of core computational tools to advance and support research in relativistic astrophysics and gravitational physics.
   navbar:
