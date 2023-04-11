@@ -8,8 +8,12 @@ sites:
     url: https://www.cactuscode.org
   - name: EinsteinToolkit wiki
     url: https://docs.einsteintoolkit.org
+    icon: https://www.wikipedia.org/static/favicon/wikipedia.ico
   - name: Tutorial server
     url: https://etk.cct.lsu.edu
+    icon: https://jupyter.org/favicon.ico
+    # LSU's "InCommon RSA Server CA" is not recognized (by curl or wget, or upptime, but is by browsers)
+    __dangerous__disable_verify_peer: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
