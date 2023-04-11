@@ -9,7 +9,7 @@ sites:
   - name: EinsteinToolkit wiki
     url: https://docs.einsteintoolkit.org
   - name: Tutorial server
-    url: https://etk.cct.lsu.edu/hub/login
+    url: https://etk.cct.lsu.edu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
