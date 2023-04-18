@@ -14,6 +14,14 @@ sites:
     icon: https://jupyter.org/favicon.ico
     # LSU's "InCommon RSA Server CA" is not recognized (by curl or wget, or upptime, but is by browsers)
     __dangerous__disable_verify_peer: true
+  - name: Cactus SVN server
+    # LSUs server does not use modern TLS and GitHub may refuse to talk to it
+    url: http://svn.cactuscode.org
+    icon: https://subversion.apache.org/icon.png
+  - name: EinsteinToolkit SVN server
+    # LSUs server does not use modern TLS and GitHub may refuse to talk to it
+    url: http://svn.einsteintoolkit.org/
+    icon: https://subversion.apache.org/icon.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
