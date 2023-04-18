@@ -23,7 +23,8 @@ sites:
     url: http://svn.einsteintoolkit.org
     icon: https://subversion.apache.org/icon.png
   - name: EinsteinToolkit mailing list server
-    url: https://lists.einsteintoolkit.org
+    # LSU changed name from lists.einsteintoolkit.org
+    url: https://mail.einsteintoolkit.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
