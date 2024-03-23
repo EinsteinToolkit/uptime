@@ -94,7 +94,7 @@
     "url": "http://svn.einsteintoolkit.org",
     "icon": "https://subversion.apache.org/icon.png",
     "slug": "einstein-toolkit-svn-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
