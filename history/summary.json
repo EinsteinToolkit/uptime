@@ -58,7 +58,7 @@
     "url": "https://etk.cct.lsu.edu",
     "icon": "https://jupyter.org/favicon.ico",
     "slug": "tutorial-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
