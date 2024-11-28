@@ -13,7 +13,7 @@
     "time": 666,
     "timeDay": 572,
     "timeWeek": 679,
-    "timeMonth": 751,
+    "timeMonth": 631,
     "timeYear": 707,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://etk.cct.lsu.edu",
     "icon": "https://jupyter.org/favicon.ico",
     "slug": "tutorial-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -121,7 +121,7 @@
     "time": 409,
     "timeDay": 423,
     "timeWeek": 408,
-    "timeMonth": 367,
+    "timeMonth": 365,
     "timeYear": 435,
     "dailyMinutesDown": {}
   }
