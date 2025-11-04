@@ -40,7 +40,7 @@
     "url": "https://docs.einsteintoolkit.org",
     "icon": "https://www.wikipedia.org/static/favicon/wikipedia.ico",
     "slug": "einstein-toolkit-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1055,
     "timeDay": 1167,
-    "timeWeek": 932,
+    "timeWeek": 1039,
     "timeMonth": 1171,
     "timeYear": 1055,
     "dailyMinutesDown": {}
