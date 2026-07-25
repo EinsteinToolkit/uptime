@@ -4,17 +4,17 @@
     "url": "https://www.einsteintoolkit.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.einsteintoolkit.org.ico",
     "slug": "einstein-toolkit-website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 3406,
-    "timeWeek": 885,
-    "timeMonth": 633,
-    "timeYear": 622,
+    "time": 633,
+    "timeDay": 1817,
+    "timeWeek": 812,
+    "timeMonth": 621,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   },
   {
@@ -31,7 +31,7 @@
     "time": 345,
     "timeDay": 431,
     "timeWeek": 286,
-    "timeMonth": 311,
+    "timeMonth": 309,
     "timeYear": 343,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 1313,
     "timeDay": 1313,
     "timeWeek": 1254,
-    "timeMonth": 1909,
+    "timeMonth": 1929,
     "timeYear": 1379,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 462,
     "timeDay": 951,
     "timeWeek": 851,
-    "timeMonth": 863,
+    "timeMonth": 859,
     "timeYear": 471,
     "dailyMinutesDown": {}
   },
@@ -119,9 +119,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 424,
+    "timeDay": 440,
     "timeWeek": 374,
-    "timeMonth": 337,
+    "timeMonth": 331,
     "timeYear": 433,
     "dailyMinutesDown": {}
   }
