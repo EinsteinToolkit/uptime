@@ -4,7 +4,7 @@
     "url": "https://www.einsteintoolkit.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.einsteintoolkit.org.ico",
     "slug": "einstein-toolkit-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 4107,
     "timeWeek": 2260,
     "timeMonth": 1165,
-    "timeYear": 673,
+    "timeYear": 672,
     "dailyMinutesDown": {}
   },
   {
