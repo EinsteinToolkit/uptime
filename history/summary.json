@@ -112,17 +112,17 @@
     "url": "https://mail.einsteintoolkit.org",
     "icon": "https://icons.duckduckgo.com/ip3/mail.einsteintoolkit.org.ico",
     "slug": "einstein-toolkit-mailing-list-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 433,
-    "timeDay": 258,
-    "timeWeek": 335,
+    "timeDay": 291,
+    "timeWeek": 333,
     "timeMonth": 340,
-    "timeYear": 415,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   }
 ]
